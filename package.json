@@ -1,0 +1,16 @@
+{
+  "name": "zakia-countdown-timer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "inquire": "^0.4.8",
+    "inquirer": "^9.2.20"
+  },
+  "types": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zakia",
+  "license": "ISC",
+  "description": ""
+}
